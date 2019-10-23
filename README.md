@@ -1,2 +1,5 @@
-# Twitter-Sentiment-Analysis
-Sentiment analysis on a large dataset tweets: data cleaning, data analysis, vectorization, classification
+# Sentiment Analysis and Classification on Tweets
+
+Classify tweets to positive, negative or neutral based on their emotions.
+Vectorization methods used: bag-of-words, tf-idf, word embeddings.
+Classification methods: KNN, SVM
